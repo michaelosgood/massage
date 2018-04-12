@@ -3,7 +3,6 @@
 .d-block {
   background: #ffffff;
   color: #ffffff;
-  height: 500px;
 }
 
 /* Navbar */
@@ -46,11 +45,3 @@
   cursor: pointer;
 }
 
-@media screen and (max-width: 450px) {
-  .sidenav {
-    padding-top: 15px;
-  }
-  .sidenav a {
-    font-size: 18px;
-  }
-}
