@@ -10,7 +10,7 @@ h3 {
 
 /* Navbar */
 #navbar {
-  background: #1a7564;
+  background: #504945;
   color: #ffffff;
 }
 
@@ -20,6 +20,11 @@ h3 {
   color: #ffffff;
 }
  /* Card */
+ .card-title {
+  background: #1a7564;
+  color: #ffffff;
+ }
  .card-body {
    background: #1a7564;
+   color: #ffffff;
  }
