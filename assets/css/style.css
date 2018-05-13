@@ -19,3 +19,7 @@ h3 {
   background: #1a7564;
   color: #ffffff;
 }
+ /* Card */
+ .card-body {
+   background: #1a7564;
+ }
