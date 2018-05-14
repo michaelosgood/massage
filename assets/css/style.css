@@ -4,14 +4,14 @@
   background: #ffffff;
   color: #ffffff;
 }
-h3 {
-  text-align: center;
-}
 
 /* Navbar */
 #navbar {
   background: #504945;
   color: #ffffff;
+}
+h3 {
+  text-align: center;
 }
 
 /* Footer */
