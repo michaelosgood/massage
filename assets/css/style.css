@@ -7,8 +7,11 @@
 
 /* Navbar */
 #navbar {
-  /* background: #504945; */
+  background: #504945;
   color: #ffffff; 
+}
+h3 {
+  text-align: center;
 }
 
 a{
