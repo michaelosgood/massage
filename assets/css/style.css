@@ -7,13 +7,13 @@
 
 /* Navbar */
 #navbar {
-  background: #504945;
+  /* background: #504945; */
   color: #ffffff; 
 }
-h3 {
-  text-align: center;
-}
 
+a{
+  color: #ffffff;
+}
 /* Footer */
 #footer {
   background: #1a7564;
