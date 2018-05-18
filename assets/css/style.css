@@ -21,6 +21,9 @@ h3 {
 .logo {
   width: 800px;
 }
+h2 {
+  color: #d3d3d3 !important; 
+}
 
 /* Footer */
 #footer {
