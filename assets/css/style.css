@@ -33,14 +33,13 @@ h2 {
 /* Card */
  .card {
   border-style: none !important;
+  background: #ffffff;
  }
  .card-title {
   color: #d3d3d3;
-  background: #ffffff;
  }
  .card-body {
   color: #d3d3d3;
-  background: #ffffff;
  }
 
  /* Footer */
