@@ -20,14 +20,15 @@
   color: #ffffff;
 }
 
-/* Massage Titles */
+/* Titles */
 h3 {
   text-align: center;
 }
-
-/* Massage Descriptions */
 h2 {
   color: #d3d3d3 !important;
+}
+h1 {
+ color: #d3d3d3 !important;
 }
 
 /* Card */
