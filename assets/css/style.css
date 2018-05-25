@@ -19,12 +19,14 @@ padding-right: 5%;
 h3 {
   text-align: center;
 }
+
 h1, h2, h3 {
   color: #d3d3d3 !important;
  }
 p {
   color: #d3d3d3 !important;
   font-size: 24px;
+  text-align: justify;
 }
 
 /* Contact Form */
@@ -52,8 +54,6 @@ label {
 
 @media only screen and (max-width: 600px) {
   p {
-    color: #d3d3d3 !important;
     font-size: 18px;
-
   }
 }
