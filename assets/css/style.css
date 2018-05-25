@@ -20,8 +20,11 @@ h3 {
   text-align: center;
 }
 
-h1, h2, h3 {
+h1, h2, h3, h5 {
   color: #d3d3d3 !important;
+ }
+ h5 {
+   text-align: center;
  }
 p {
   color: #d3d3d3 !important;
