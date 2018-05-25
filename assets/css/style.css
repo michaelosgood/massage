@@ -11,13 +11,8 @@
 
 /* Logo in Nav */
 .logo {
-  width: 800px;
-}
-
-/* Carousel */
-.d-block {
-  background: #ffffff;
-  color: #ffffff;
+padding-left: 2px;
+padding-right: 2px;
 }
 
 /* Titles */
