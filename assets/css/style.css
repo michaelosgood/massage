@@ -26,17 +26,17 @@ h1 {
  color: #d3d3d3 !important;
 }
 
+/* Contact Form */
+label {
+  color: #d3d3d3 !important;
+}
+
 /* Card */
  .card {
   border-style: none !important;
   background: #ffffff;
  }
- .card-title {
-  color: #d3d3d3;
- }
- .card-body {
-  color: #d3d3d3;
- }
+
 
  /* Footer */
 #footer {
