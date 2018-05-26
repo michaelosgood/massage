@@ -65,4 +65,7 @@ label {
   .card-body{
     padding: 0px !important;
   }
+  h5 {
+    font-size: 15px !important;
+  }
 }
