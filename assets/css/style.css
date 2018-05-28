@@ -32,6 +32,14 @@ p {
   text-align: justify;
 }
 
+/* Contact Info */
+#contact-info {
+background: #1a7564;
+color: #504945;
+padding-top: 50px;
+padding-bottom: 50px;
+}
+
 /* Contact Form */
 label {
   color: #d3d3d3 !important;
